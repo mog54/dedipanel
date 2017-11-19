@@ -2165,17 +2165,17 @@
             "time": "2015-01-11 15:09:50"
         },
         {
-            "name": "planetteamspeak/ts3-php-framework",
-            "version": "1.1.23",
+            "name": "planetteamspeak/ts3phpframework",
+            "version": "1.1.24",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mdoelker/ts3-php-framework.git",
-                "reference": "df1ca20abfd1fc6a9c01dd0fc91fb32132518706"
+                "url": "https://github.com/planetteamspeak/ts3phpframework.git",
+                "reference": "82180c08102fe6fcee83737b47fc0f3c7417f888"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mdoelker/ts3-php-framework/zipball/df1ca20abfd1fc6a9c01dd0fc91fb32132518706",
-                "reference": "df1ca20abfd1fc6a9c01dd0fc91fb32132518706",
+                "url": "https://api.github.com/repos/planetteamspeak/ts3phpframework/zipball/82180c08102fe6fcee83737b47fc0f3c7417f888",
+                "reference": "82180c08102fe6fcee83737b47fc0f3c7417f888",
                 "shasum": ""
             },
             "require": {
