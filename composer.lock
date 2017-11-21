@@ -1030,7 +1030,7 @@
         },
         {
             "name": "doctrine/orm",
-            "version": "v2.4.2",
+            "version": "v2.4.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/doctrine2.git",
